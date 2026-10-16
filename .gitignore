@@ -1,2 +1,5 @@
+# Ignore build output and logs
 out/
 *.log
+*.swp
+*.swp
